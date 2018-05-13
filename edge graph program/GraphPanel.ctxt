@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GraphPanel()
+comment1.params=page\ x\ y\ len\ alpha
+comment1.target=void\ arrow(java.awt.Graphics,\ int,\ int,\ int,\ double)
+comment2.params=page
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=p1\ p2
+comment3.target=int\ distance(java.awt.Point,\ java.awt.Point)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment5.params=x\ y
+comment5.target=boolean\ findPath(int,\ int)
+numComments=6
